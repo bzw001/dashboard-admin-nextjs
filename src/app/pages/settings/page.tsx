@@ -6,7 +6,7 @@ import SettingBoxes from "@/components/SettingBoxes";
 
 export const metadata: Metadata = {
   title: "Next.js Settings Page | Admin - Next.js Dashboard c",
-  description: "This is Next.js Settings page for Admin Dashboard Kit",
+  description: "This is Next.js Settings page for Admin Dashboard",
 };
 
 const Settings = () => {

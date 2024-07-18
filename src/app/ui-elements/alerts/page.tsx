@@ -6,8 +6,8 @@ import AlertWarning from "@/components/Alerts/AlertWarning";
 import AlertSuccess from "@/components/Alerts/AlertSuccess";
 
 export const metadata: Metadata = {
-  title: "Next.js Alerts Page | Admin - Next.js Dashboard Kit",
-  description: "This is Next.js Alerts page for Admin Dashboard Kit",
+  title: "Next.js Alerts Page | Dashboard-admin-nextjs",
+  description: "This is Next.js Alerts page for Admin Dashboard",
   // other metadata
 };
 

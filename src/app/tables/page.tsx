@@ -7,8 +7,8 @@ import { Metadata } from "next";
 import DefaultLayout from "@/components/Layouts/DefaultLaout";
 
 export const metadata: Metadata = {
-  title: "Next.js Tables Page | Admin - Next.js Dashboard Kit",
-  description: "This is Next.js Tables page for Admin Dashboard Kit",
+  title: "Next.js Tables Page | Dashboard-admin-nextjs",
+  description: "This is Next.js Tables page for Admin Dashboard",
 };
 
 const TablesPage = () => {

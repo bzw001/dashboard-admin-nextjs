@@ -4,8 +4,8 @@ import DefaultLayout from "@/components/Layouts/DefaultLaout";
 import ProfileBox from "@/components/ProfileBox";
 
 export const metadata: Metadata = {
-  title: "Next.js Profile Page | Admin - Next.js Dashboard Kit",
-  description: "This is Next.js Profile page for Admin Dashboard Kit",
+  title: "Next.js Profile Page | Dashboard-admin-nextjs",
+  description: "This is Next.js Profile page for Admin Dashboard",
 };
 
 const Profile = () => {
